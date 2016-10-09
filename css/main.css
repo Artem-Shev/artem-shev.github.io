@@ -1,0 +1,20 @@
+* {
+	font-family: sans-serif;
+}
+table {
+	margin: 0 auto;
+	margin-top: 30vh;
+	border-collapse: collapse;
+}
+th {}
+td {
+	padding: 5px;
+	border: 1px solid black;
+}
+.img-preview {
+	max-width: 100px;
+}
+
+.centered {
+	text-align: center;
+}
